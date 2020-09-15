@@ -8,4 +8,4 @@
 <img align='center' src="https://github.com/NowshadRuhan/Youth-Vision-Social-Society-Team-Project-Using-CodeIgniter/blob/master/Youth-Vision-Home.png" width="480" hight=400>
 
 ### Youth-Vision-Signup-User:
-<img align='center' src="https://github.com/NowshadRuhan/Youth-Vision-Social-Society-Team-Project-Using-CodeIgniter/blob/master/youth-vision-signup.png" width="480" hight=400>
+<img align='center' src="https://github.com/NowshadRuhan/Youth-Vision-Social-Society-Team-Project-Using-CodeIgniter/blob/master/youth-vision-signup.png" width="680" hight=400>
