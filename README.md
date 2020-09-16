@@ -25,3 +25,26 @@ In youth vision i used email verification in signup. So, that every user can cre
 ### Youth-Vision-Signup-User:
 <img align='center' src="https://github.com/NowshadRuhan/Youth-Vision-Social-Society-Team-Project-Using-CodeIgniter/blob/master/youth-vision-signup.png" width="980" hight=700>
 
+### User program view:
+<img align='center' src="https://github.com/NowshadRuhan/Youth-Vision-Social-Society-Team-Project-Using-CodeIgniter/blob/master/User-panel.png" width="680" hight=400>
+
+## About admin site:
+Youth vision website admin maintain member of their team. And admin has own profile, they can edit, add - program, user, and others. Now i, will tell whole functionality in admin site..
+
+1. Admin maintain:
+   - admin can maintain user who will be member.
+   - admin can maintain program if program is posted by user.
+   - admin can maintain event if event is created by user.
+   - admin can add member, also can pouse user membership.
+2. Admin functionality:
+   - admin can add program, event, user and also co-admin.
+   - admin can edit his own profile.
+   - admin can contact super-admin.
+   
+
+
+
+
+
+
+
