@@ -45,6 +45,23 @@ Youth vision website admin maintain member of their team. And admin has own prof
 <img align='center' src="https://github.com/NowshadRuhan/Youth-Vision-Social-Society-Team-Project-Using-CodeIgniter/blob/master/User_maintain-Admin.png" width="980" hight=700>
 
 
+## About super-admin site:
+Youth vision super admin maintain all admin, also they have all functionality like admin.Super admin can add admin and delete admin.
+
+### About Database:
+In this project i used 4tables for contain all data.The table are..
+1. User/Admin/Super-admin creatation table.
+2. Event table.
+3. Notice table.
+4. Program table.
+
+**Relation between all table**
+- [x] User table - Event table **[OneToMany]**
+- [x] User table - Notice table **[OneToMany]**
+- [x] User table - Program table **[OneToMany]**
+
+
+
 
 
 
